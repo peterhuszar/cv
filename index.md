@@ -50,7 +50,7 @@ Specialization: Electrical Machines and Electrical Power Converters specializati
 Specialization: Communication Engineering, Microwave Communication
 
 ---
-# Awards
+## Awards
 
 * New National Excellence Program of the Ministry for Innovation and Technology (Új Nemzeti Kiválóság Program, ÚNKP) research fellowship granted for the academic year 2019/20. Research topic: *"Tools and possibilities of defensing against drones"*
 * Scholarship granted by the Hungarian Republic 2015/16 (Köztársasági ösztöndíj 2015/16)
@@ -61,18 +61,22 @@ students after at least two semesters of outstanding academic/professional achie
 * 1<sup>st</sup> prize of the Obuda University XXXVIII. Scientific Students' Conference
 
 ---
-# Languages
+## Publications
+- [Improving communication efficiency between UAV and it's ground segment](/article_1)
+
+
+
+---
+## Conferences
+
+---
+## Languages
 * English     - Level: C1
 * German      - Level: Ein Bier bitte!
 * Hungarian   - Level: Native
 
 ---
-# Publications
-
----
-# Conferences
-
-
+## Hobbies
 
 
 
