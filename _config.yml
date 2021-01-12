@@ -5,14 +5,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/huszar-peter/">Take a look at my LinkedIn profile</a>
-  <a href="https://peterhuszar.medium.com/">Check out my blog posts on Medium</a>
-  <a href="https://peterhuszar.medium.com/">See my publications on ResearcGate</a> TBD
-  <a href="https://doktori.hu/index.php?menuid=192&sz_ID=30258&lang=EN">My Hungarian Doctoral Council profile</a>
+  <a href="https://www.linkedin.com/in/huszar-peter/">LinkedIn Profile</a>
+  <br><br>
+  <a href="https://peterhuszar.medium.com/">Medium Blog</a>
+  <br><br>
+  <a href="https://peterhuszar.medium.com/">ResearchGate</a> TBD
+  <br><br>
+  <a href="https://doktori.hu/index.php?menuid=192&sz_ID=30258&lang=EN">ODT</a>
+  <br>
   <a href="https://orcid.org/0000-0001-6169-3777">ORCID</a>
-  <br><br>
-  <br><br>
-  <br><br>
   <br><br>
   
 theme: jekyll-theme-minimal
