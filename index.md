@@ -1,37 +1,25 @@
-## Peter Huszar
 
-*Brief intorduction...*
+## Work Experiences by Relevance
 
-
-# Links
-Check out my other professional profiles:
-* [Linkedin](https://www.linkedin.com/in/huszar-peter/)
-* [Medium](https://peterhuszar.medium.com/)
-* [Research Gate]() TBD
-* [ORCID](https://orcid.org/0000-0001-6169-3777)
-* [ODT](https://doktori.hu/index.php?menuid=192&sz_ID=30258&lang=EN)
-
-# Work Experiences by Relevance
-
-## Embedded Hardware/Software Engineer (2018.12. - 2021.01.)
-*Complex Systems & Small Satellites (C3S) LLC. Budapest, Hungary*
+### Embedded Hardware/Software Engineer - 2 years 1 month
+*[Complex Systems & Small Satellites (C3S) LLC.](https://www.c3s.hu/) Budapest, Hungary (2018.12. - 2021.01.)*
 
 
-## Elecrical Engineering Intern (2015.10. - 2016.10.)
-*German Aerospace Center ( Deutsches Zentrum für Luft- und Raumfahrt - DLR) Bremen, Germany*
+### Elecrical Engineering Intern - 1 year 1 month
+*[German Aerospace Center ( Deutsches Zentrum für Luft- und Raumfahrt - DLR)](https://www.dlr.de/content/de/standort/bremen.html) Bremen, Germany (2015.10. - 2016.10.)*
 
 As a hardware designer my task was to design a three channel (X,Y,Z) high resolution ADC unit for seismical data acquisition, a main on board computer unit with an ARM Cortex-M4 microcontroller, Wifi connection and other necessary peripherials, and finally an interface unit for the ROBEX (Robotic Exploration of Extreme Environments-Helmholz Alliance) project. I was responsible for the whole design and manufacturing process. I gained a lot of new experience with Altium designer and different kind of simulation programs, in the field of high resolution delta sigma ADCs and load cell amplifiers and in addition I feel lucky to had the opportunity to work with a very international team.
 
-## Electrical Engineering Intern 2015.06 - 2015.09.
-*at Hetronic Malta Ltd. Mriehel, Malta*
+### Electrical Engineering Intern - 4 months
+*[Hetronic Malta Ltd.](https://www.hetronic.com/) Mriehel, Malta (2015.06. - 2015.09.)*
 
 I had quality assurance based tasks, jig and hardware designing with the aim of improving test methods and procedures. I leraned a lot about production cell auditing and layerd process auditing, quality control plans and how to make and improve these plans. Furthermore I experienced how to work and communicate with a culturally very divers team.
 
-## Hardware Engineer 2017.03. - 2018.11
-*Thyssenkrupp Presta, Budapest, Hungary*
+### Hardware Engineer - 1 year 9 months
+*[thyssenkrupp E/E Competence Center](https://www.thyssenkrupp.hu/en/sites/budapest) Budapest, Hungary (2017.03. - 2018.11)*
 
-## DSP Laboratory Demonstrator 2016.09 - 2016.12.
-*at Obuda University Budapest, Hungary*
+### DSP Laboratory Demonstrator - 1 semester
+*Obuda University Budapest, Hungary (2016.09 - 2016.12.)*
 
 As a laboratory demonstrator I presented to younger engineering students how to use digital signal processors (DSPs), write small applications in assembly language and how to measure them properly. I gained lot of useful experiences about teaching, encouraging, and dealing with others, I really enjoyed to work as a demonstrator.
 
