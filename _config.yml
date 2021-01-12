@@ -1,7 +1,7 @@
 title: Peter Huszar # your name (or website title) here
 logo: "/images/profile_picture_circular.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  PhD student in the field of drones and remote drone identification. Electrical engineer with hardware and software design experience in the aerospace industry.
   <br><br>
   Second description 
   <br><br>
@@ -11,10 +11,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://peterhuszar.medium.com/">ResearchGate</a> TBD
   <br><br>
-  <a href="https://doktori.hu/index.php?menuid=192&sz_ID=30258&lang=EN">ODT</a>
-  <br>
   <a href="https://orcid.org/0000-0001-6169-3777">ORCID</a>
   <br><br>
+  <a href="https://doktori.hu/index.php?menuid=192&sz_ID=30258&lang=EN">ODT</a>
+  <br><br>
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
