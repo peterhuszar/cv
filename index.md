@@ -79,10 +79,3 @@ students after at least two semesters of outstanding academic/professional achie
 ---
 ## Hobbies
 To my big surprise I got hooked on running in the recent years. An activity what I really hated back in the days though. I also like playing the guitar and reading about a wide variety of topics.
-
-
-
-
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
