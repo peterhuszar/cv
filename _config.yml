@@ -2,19 +2,17 @@ title: Peter Huszar # your name (or website title) here
 logo: "/images/profile_picture_circular.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD student in the field of drones and remote drone identification. Electrical engineer with hardware and software design experience in the aerospace industry.
-  <br><br>
-  Second description 
-  <br><br>
+  <br/>
   <a href="https://www.linkedin.com/in/huszar-peter/">LinkedIn Profile</a>
-  <br><br>
+  <br/>
   <a href="https://peterhuszar.medium.com/">Medium Blog</a>
-  <br><br>
+  <br/>
   <a href="https://peterhuszar.medium.com/">ResearchGate</a> TBD
-  <br><br>
+  <br/>
   <a href="https://orcid.org/0000-0001-6169-3777">ORCID</a>
-  <br><br>
+  <br/>
   <a href="https://doktori.hu/index.php?menuid=192&sz_ID=30258&lang=EN">ODT</a>
-  <br><br>
+  <br/>
 
   
 theme: jekyll-theme-minimal
