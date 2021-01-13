@@ -64,7 +64,7 @@ students after at least two semesters of outstanding academic/professional achie
 ## Publications
 - [Improving communication efficiency between UAV and it's ground segment](/publication_descriptions.md##improving-communication-efficiency-between-uav-and-its-ground-segment)
 - [Analysis of Ukrain's crowdfunded military purpose octocopters](/publication_descriptions.md##analysis-of-ukrains-crowdfunded-military-purpose-octocopters)
-- [Challenges of defense against drones](/article_1##Challenges-of-defense-against-drones)
+- [Challenges of defense against drones](/article_1##challenges-of-defense-against-drones)
 - [Fourth](/article_1.md#second-publication)
 
 
