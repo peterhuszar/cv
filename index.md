@@ -31,7 +31,8 @@ As a laboratory demonstrator I presented to younger engineering students how to 
 ---
 ## Education
 
-### Relevant Webinars Attended
+### Relevant Conferences and Webinars Attended
+ * [RPAS CivOps 2020 Conference](https://rpas-civops.com/), 8th Annual European Civil RPAS/Drone Operators & Operations Forum, The Hague, Netherlands. (2020.01.13-16.)
  * Dedrone Webinar: *"Stopping unauthorized drones at Suffolk County Prison*
  * Dedrone Webinar: *Drone Incident Response: Best Practices and Common Misconceptions*
 
