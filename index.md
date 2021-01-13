@@ -62,17 +62,10 @@ students after at least two semesters of outstanding academic/professional achie
 
 ---
 ## Publications
-- [Improving communication efficiency between UAV and it's ground segment](https://peterhuszar.github.io/cv/article_1)
-- [Improving communication efficiency between UAV and it's ground segment](./article_1)
-- [Improving communication efficiency between UAV and it's ground segment](./article_1.md)
-- [Improving communication efficiency between UAV and it's ground segment](/article_1.md)
-- [Improving communication efficiency between UAV and it's ground segment](/article_1)
-- [Second publication](/article_1#second-publication)
-- [Second publication](/article_1.md#second-publication)
-- [Second publication](/article_1.md#third-publication)
-
-
-- https://github.com/peterhuszar/cv/blob/master/article_1.md#second-publication
+- [Improving communication efficiency between UAV and it's ground segment](/publication_descriptions.md#improving-communication-efficiency-between-uav-and-its-ground-segment)
+- [Analysis of Ukrain's crowdfunded military purpose octocopters](/publication_descriptions.md#analysis-of-ukrains-crowdfunded-military-purpose-octocopters)
+- [Third](/article_1#second-publication)
+- [Fourth](/article_1.md#second-publication)
 
 
 
