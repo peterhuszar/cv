@@ -3,5 +3,4 @@
 The generated page can be reached on this link: https://peterhuszar.github.io/cv/
 
 
-## References
-Based on: https://github.com/evanca/quick-portfolio
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
