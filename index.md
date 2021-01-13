@@ -67,6 +67,12 @@ students after at least two semesters of outstanding academic/professional achie
 - [Improving communication efficiency between UAV and it's ground segment](./article_1.md)
 - [Improving communication efficiency between UAV and it's ground segment](/article_1.md)
 - [Improving communication efficiency between UAV and it's ground segment](/article_1)
+- [Second publication](/article_1#second-publication)
+- [Second publication](/article_1.md#second-publication)
+- [Second publication](/article_1.md#third-publication)
+
+
+- https://github.com/peterhuszar/cv/blob/master/article_1.md#second-publication
 
 
 
