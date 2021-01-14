@@ -63,5 +63,16 @@ Below you can find more information about my publications. They are mostly hunga
 
 **Status:** Reviewed and accepted, waiting to be published. See the [manuscript](./pdf/Huszar_Peter_Otodik_generacios_mobilhalozatok_es_dronok_v5.pdf)
 
+---
+## Cubesat development from the perspective of versatility and easy reproducibility
+**Authors:** [Patrik Reizinger](http://orcid.org/0000-0001-9861-0293), [Péter Huszár](orcid.org/0000-0001-6169-3777), [Dorottya Milánkovich](orcid.org/0000-0002-8127-0242), [Alexandra Széll](orcid.org/0000-0002-5312-0394) 
+
+**Abstract:**
+*Space is not a privilege of the greatest economic powers anymore. As a result of constantly decreasing costs and technological advancements, even small companies with small budgets can take part in the Space Race of the twenty-first century. Small and microsatellites are the perfect platforms for this and their use cases are constantly expanding. However, the more and more diverse payloads are worthless without the fundamental subsystems such as the onboard computer, power supplies, wireless communication unit or the subsystem which is responsible for the orientation of the satellite. Therefore, a need arises for the development of a universal satellite platform that provides the essentials for different payloads and scien-tific research equipment designed by third parties. Thus, creating a standardized, cost-effective and flexibly expandable, therefore more accessible small satellite platform. The authors describe a universal CubeSat platform that meets the above requirements, elaborat-ing in detail the challenging development process which demands unique solutions, the ad-vantages of highly reliable software technologies and the potential provided by such a plat-form.*
+
+**Keywords:** CubeSat, small satellite, satellite development, universal satellite platform, ADCS
+
+**Status:** Reviewed and accepted, waiting to be published. See the conference [presentation](https://www.vrht.bme.hu/letoltes/Tanszeki_letoltheto_anyagok/Oktatok_anyagai/Egyeb_anyagok/Konferencia/MRTN20/2nap_2szek_2.pdf).
+
 
 
