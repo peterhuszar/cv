@@ -33,6 +33,7 @@ As a laboratory demonstrator I presented to younger engineering students how to 
 
 ### Relevant Conferences and Webinars Attended
  * [RPAS CivOps 2020 Conference](https://rpas-civops.com/), 8th Annual European Civil RPAS/Drone Operators & Operations Forum, The Hague, Netherlands. (2020.01.13-16.)
+ * [Drone Tech World Meeting](https://dronetech-poland.com/?lang=en), Torun, Poland. (2019.10.18-19.)
  * Dedrone Webinar: *"Stopping unauthorized drones at Suffolk County Prison*
  * Dedrone Webinar: *Drone Incident Response: Best Practices and Common Misconceptions*
 
@@ -68,7 +69,8 @@ students after at least two semesters of outstanding academic/professional achie
 - [Challenges of defense against drones](/publication_descriptions.md#challenges-of-defense-against-drones)
 - [Drone Remote Identification](/publication_descriptions.md#drone-remote-identification)
 - [Threats against drones from cyberspace](/publication_descriptions.md#threats-against-drones-from-cyberspace)
-- [5G and drones] TBD
+- [The potential of fifth generation mobile networks for unmanned aerial vehicle systems](/publication_descriptions.md#the-potential-of-fifth-generation-mobile-networks-for-unmanned-aerial-vehicle-systems)
+- [Cubesat development from the perspective of versatility and easy reproducibility](/publication_descriptions.md#cubesat-development-from-the-perspective-of-versatility-and-easy-reproducibility)
 
 ---
 ## Languages
