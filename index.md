@@ -54,13 +54,13 @@ Specialization: Communication Engineering, Microwave Communication
 ---
 ## Awards
 
-* New National Excellence Program of the Ministry for Innovation and Technology (Új Nemzeti Kiválóság Program, ÚNKP) research fellowship granted for the academic year 2019/20. Research topic: *"Tools and possibilities of defensing against drones"*
-* Scholarship granted by the Hungarian Republic 2015/16 (Köztársasági ösztöndíj 2015/16)
-Minister of Education awards the Fellowship granted by the Republic (Köztársasági ösztöndíj) to
-students after at least two semesters of outstanding academic/professional achievement, working with unique success in the scientific students’ circle.
-* Special prize of the XXXII. National Conference of Scientific Students' Associations (2015)
-* 2<sup>nd</sup> prize of the University of Timisoara XV. Scientific Students' Conference
-* 1<sup>st</sup> prize of the Obuda University XXXVIII. Scientific Students' Conference
+* **New National Excellence Program** of the Ministry for Innovation and Technology (Új Nemzeti Kiválóság Program, ÚNKP) research fellowship granted for the academic year 2019/20. Research topic: *"Tools and possibilities of defensing against drones"*
+* **Special prize** of the XXXIII. National Conference of Scientific Students' Associations Conference (Országos Tudományos Diákköri Konferencia, OTDK) Section: electronics, electrical measurement technology and telecommunications - 2017 
+* **Scholarship** granted by the Hungarian Republic 2015/16 (Köztársasági ösztöndíj) - 2015/16 Minister of Education awards the Fellowship granted by the Republic (Köztársasági ösztöndíj) to students after at least two semesters of outstanding academic/professional achievement, working with unique success in the scientific students’ circle.
+* **Special prize** of the XXXII. National Conference of Scientific Students' Associations Conference (Országos Tudományos Diákköri Konferencia, OTDK) Section: electronics, electrical measurement technology and telecommunications - 2015
+* **2<sup>nd</sup> prize** of the Obuda University XLIV. Scientific Students' Conference (Tudományos Diákköri Konferencia, TDK)
+* **2<sup>nd</sup> prize** of the University of Timisoara XV. Scientific Students' Conference (Tudományos Diákköri Konferencia, TDK)
+* **1<sup>st</sup> prize** of the Obuda University XXXVIII. Scientific Students' Conference (Tudományos Diákköri Konferencia, TDK)
 
 ---
 ## Publications
