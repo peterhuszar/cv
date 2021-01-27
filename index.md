@@ -4,7 +4,13 @@
 ### Embedded Hardware/Software Engineer - 2 years 1 month
 *[Complex Systems & Small Satellites (C3S) LLC.](https://www.c3s.hu/) Budapest, Hungary (2018.12. - 2021.01.)*
 
-TBD description
+As a software developer at C3S I spent most of my time implementing Python scripts and tools and I also participated in the embedded satellite C source code in the form of bug fixes and code maintenance. I performed measurements on the satellite hardware to verify the functionality of the embedded source code. Besides that my main task were to automate processes like code quality inspections and implement scripts which can be used to generate source code (C, Cpp, NodeJS), configuration files used for the satellite communication packets, reports and documentations. During our work we worked together closely with international partners such as the European Space Agency (ESA). I also participated in project preparation. I got entrusted to present the results of our company on a scientific conference and to take part in a paper on CubeSat development. 
+
+---
+### Hardware Engineer - 1 year 9 months
+*[thyssenkrupp E/E Competence Center](https://www.thyssenkrupp.hu/en/sites/budapest) Budapest, Hungary (2017.03. - 2018.11.)*
+
+At Thyssenkrupp my job was to develop, test and verify a new generation of steering systems intended to be used in self-driving cars. I designed the layout of the high current circuitry and I also took part in the design of the digital circuitry. I performed thermal measurements on the whole system in order to improve the layout. I started to use Python at Thyssenkrupp to collect data automatically with laboratory equipment during measurements, to condition and process the gathered data and finally to generate the required documentation and verify the results. I gained a lot of experience with thermal cameras, thermal chambers, special PCB technologies like IMS and high temperature FR4 and with Python scripting during the time I spent there.
 
 ---
 ### Elecrical Engineer - 1 year 1 month
@@ -19,10 +25,6 @@ As a hardware designer intern my task was to design a three channel (X,Y,Z) high
 As an intern I had quality assurance based tasks, jig and hardware designing with the aim of improving test methods and procedures. I leraned a lot about production cell auditing and layerd process auditing, quality control plans and how to make and improve these plans. Furthermore I experienced how to work and communicate with a culturally very divers team.
 
 ---
-### Hardware Engineer - 1 year 9 months
-*[thyssenkrupp E/E Competence Center](https://www.thyssenkrupp.hu/en/sites/budapest) Budapest, Hungary (2017.03. - 2018.11.)*
-
----
 ### DSP Laboratory Demonstrator - 1 semester
 *Obuda University Budapest, Hungary (2016.09. - 2016.12.)*
 
@@ -31,7 +33,7 @@ As a laboratory demonstrator I presented to younger engineering students how to 
 ---
 ## Education
 
-### Relevant Conferences and Webinars Attended
+### Relevant Conferences and Webinars Attended Recently
  * [RPAS CivOps 2020 Conference](https://rpas-civops.com/), 8th Annual European Civil RPAS/Drone Operators & Operations Forum, The Hague, Netherlands. (2020.01.13-16.)
  * [Drone Tech World Meeting](https://dronetech-poland.com/?lang=en), Torun, Poland. (2019.10.18-19.)
  * Dedrone Webinar: *"Stopping unauthorized drones at Suffolk County Prison*
@@ -40,16 +42,17 @@ As a laboratory demonstrator I presented to younger engineering students how to 
 ---
 ### PhD Military Engineering - Present
 *National University of Public Service, Doctoral School of Military Engineering (2018.09. - Present)*
+Research field: Defense electronics, information technology and communication
 
 ---
 ### MSc Electrical Engineer - 2 years
 *Óbuda University, Kandó Kálmán Faculty of Electrical Engineering (2014. - 2016.)*
-Specialization: Electrical Machines and Electrical Power Converters specialization
+Specialization: Electrical Machines and Electrical Power Converters specialization, Classification: outstanding
 
 ---
 ### BSc Electrical Engineer - 4 years
 *Óbuda University, Kandó Kálmán Faculty of Electrical Engineering (2010. - 2014.)*
-Specialization: Communication Engineering, Microwave Communication
+Specialization: Communication Engineering, Microwave Communication, Classification: outstanding
 
 ---
 ## Awards
