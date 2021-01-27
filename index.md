@@ -77,9 +77,9 @@ Specialization: Communication Engineering, Microwave Communication, Classificati
 
 ---
 ## Languages
-* English     - Proficiency: C1
-* German      - Proficiency: Ein Bier bitte!
-* Hungarian   - Proficiency: Native
+* English     - C1 I speak and write in english fluently. I understand highly technical and complex texts and lectures.
+* German      - A1 During my internship in Germany I took online courses and I learned the basics but I have not used it recently.
+* Hungarian   - Native
 
 ---
 ## Hobbies
