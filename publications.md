@@ -43,7 +43,7 @@ Below you can find more information about my publications. They are mostly hunga
 
 **Keywords:** drone remote identification, unique drone identifier, UAS remote identification,UAS RID
 
-**Status:** Reviewed and accepted, waiting to be published. See the [manuscript](./pdf/Huszar_Peter_Tavoli_dronazonositas_v4.pdf).
+**Status:** Reviewed and accepted, waiting to be published.
 
 ---
 ## Threats against drones from cyberspace
@@ -52,7 +52,7 @@ Below you can find more information about my publications. They are mostly hunga
 
 **Keywords:** UAV, CUAV, drone, cyberspace, protection against drones
 
-**Status:** Reviewed and accepted, waiting to be published. See the [manuscript](./pdf/Huszar_Peter_Dronok_elleni_fenyegetesek_a_kiberterbol_v4.pdf).
+**Status:** Reviewed and accepted, waiting to be published.
 
 ---
 ## The potential of fifth generation mobile networks for unmanned aerial vehicle systems
@@ -61,7 +61,7 @@ Below you can find more information about my publications. They are mostly hunga
 
 **Keywords:** drones, cellular communication, 5G
 
-**Status:** Reviewed and accepted, waiting to be published. See the [manuscript](./pdf/Huszar_Peter_Otodik_generacios_mobilhalozatok_es_dronok_v5.pdf)
+**Status:** Reviewed and accepted, waiting to be published.
 
 ---
 ## Cubesat development from the perspective of versatility and easy reproducibility
