@@ -33,13 +33,6 @@ As a laboratory demonstrator I presented to younger engineering students how to 
 ---
 ## Education
 
-### Relevant Conferences and Webinars Attended Recently
- * [RPAS CivOps 2020 Conference](https://rpas-civops.com/), 8th Annual European Civil RPAS/Drone Operators & Operations Forum, The Hague, Netherlands. (2020.01.13-16.)
- * [Drone Tech World Meeting](https://dronetech-poland.com/?lang=en), Torun, Poland. (2019.10.18-19.)
- * Dedrone Webinar: *"Stopping unauthorized drones at Suffolk County Prison*
- * Dedrone Webinar: *Drone Incident Response: Best Practices and Common Misconceptions*
-
----
 ### PhD Military Engineering - Present
 *National University of Public Service, Doctoral School of Military Engineering (2018.09. - Present)*
 Research field: Defense electronics, information technology and communication
@@ -53,6 +46,13 @@ Specialization: Electrical Machines and Electrical Power Converters specializati
 ### BSc Electrical Engineer - 4 years
 *Óbuda University, Kandó Kálmán Faculty of Electrical Engineering (2010. - 2014.)*
 Specialization: Communication Engineering, Microwave Communication, Classification: outstanding
+
+---
+### Relevant Conferences and Webinars Attended Recently
+ * [RPAS CivOps 2020 Conference](https://rpas-civops.com/), 8th Annual European Civil RPAS/Drone Operators & Operations Forum, The Hague, Netherlands. (2020.01.13-16.)
+ * [Drone Tech World Meeting](https://dronetech-poland.com/?lang=en), Torun, Poland. (2019.10.18-19.)
+ * Dedrone Webinar: *"Stopping unauthorized drones at Suffolk County Prison*
+ * Dedrone Webinar: *Drone Incident Response: Best Practices and Common Misconceptions*
 
 ---
 ## Awards
