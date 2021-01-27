@@ -64,13 +64,13 @@ Specialization: Communication Engineering, Microwave Communication
 
 ---
 ## Publications
-- [Improving communication efficiency between UAV and it's ground segment](/publication_descriptions.md#improving-communication-efficiency-between-uav-and-its-ground-segment)
-- [Analysis of Ukrain's crowdfunded military purpose octocopters](/publication_descriptions.md#analysis-of-ukrains-crowdfunded-military-purpose-octocopters)
-- [Challenges of defense against drones](/publication_descriptions.md#challenges-of-defense-against-drones)
-- [Drone Remote Identification](/publication_descriptions.md#drone-remote-identification)
-- [Threats against drones from cyberspace](/publication_descriptions.md#threats-against-drones-from-cyberspace)
-- [The potential of fifth generation mobile networks for unmanned aerial vehicle systems](/publication_descriptions.md#the-potential-of-fifth-generation-mobile-networks-for-unmanned-aerial-vehicle-systems)
-- [Cubesat development from the perspective of versatility and easy reproducibility](/publication_descriptions.md#cubesat-development-from-the-perspective-of-versatility-and-easy-reproducibility)
+- [Improving communication efficiency between UAV and it's ground segment](/publications.md#improving-communication-efficiency-between-uav-and-its-ground-segment)
+- [Analysis of Ukrain's crowdfunded military purpose octocopters](/publications.md#analysis-of-ukrains-crowdfunded-military-purpose-octocopters)
+- [Challenges of defense against drones](/publications.md#challenges-of-defense-against-drones)
+- [Drone Remote Identification](/publications.md#drone-remote-identification)
+- [Threats against drones from cyberspace](/publications.md#threats-against-drones-from-cyberspace)
+- [The potential of fifth generation mobile networks for unmanned aerial vehicle systems](/publications.md#the-potential-of-fifth-generation-mobile-networks-for-unmanned-aerial-vehicle-systems)
+- [Cubesat development from the perspective of versatility and easy reproducibility](/publications.md#cubesat-development-from-the-perspective-of-versatility-and-easy-reproducibility)
 
 ---
 ## Languages
