@@ -6,7 +6,7 @@
 
 As a software developer at C3S, I spent most of my time implementing Python scripts and tools and I also participated in the embedded satellite C source code in the form of bug fixes and code maintenance. I performed measurements on the satellite hardware to verify the functionality of the embedded source code. Besides that my main task was to automate processes like code quality inspections and implement scripts that can be used to generate source code (C, Cpp, NodeJS), configuration files used for the satellite communication packets, reports, and documentation. During our work, we worked together closely with international partners such as the European Space Agency (ESA). I also participated in project preparation. I got entrusted to present the results of our company at a scientific conference and to take part in a paper on CubeSat development.
 
-Used technologies: Python3, C, VS Code, Atollic True Studio, Bitbucket, Bamboo, JIRA, SonarQube
+**Used technologies:** Python3, C, VS Code, Atollic True Studio, Bitbucket, Bamboo, JIRA, SonarQube
 
 ---
 ### Hardware Engineer - 1 year 9 months
@@ -14,7 +14,7 @@ Used technologies: Python3, C, VS Code, Atollic True Studio, Bitbucket, Bamboo, 
 
 At Thyssenkrupp my job was to develop, test, and verify a new generation of steering systems intended to be used in self-driving cars. I designed the layout of the high current circuitry and I also took part in the design of the digital circuitry. I performed thermal measurements on the whole system in order to improve the layout. I started to use Python at Thyssenkrupp to collect data automatically with laboratory equipment during measurements, to condition and process the gathered data, and finally to generate the required documentation and verify the results. I gained a lot of experience with thermal cameras, thermal chambers, special PCB technologies like IMS and high-temperature FR4 and Python scripting, during the time I spent there.
 
-Used technologies: Python 2.7, Python 3, PyCharm, FLIR thermal cameras, thermal chambers, Altium Designer, SVN
+**Used technologies:** Python 2.7, Python 3, PyCharm, FLIR thermal cameras, thermal chambers, Altium Designer, SVN
 
 ---
 ### Electrical Engineer - 1 year 1 month
@@ -22,7 +22,7 @@ Used technologies: Python 2.7, Python 3, PyCharm, FLIR thermal cameras, thermal 
 
 As a hardware designer intern, my task was to design a three-channel (X, Y, Z) high-resolution ADC unit for seismical data acquisition, a main onboard computer unit (OBC) with an ARM Cortex-M4 microcontroller, Wifi connection, and other necessary peripherals, and finally an interface unit for the ROBEX (Robotic Exploration of Extreme Environments-Helmholz Alliance) project. I was responsible for the whole design and manufacturing process. I gained a lot of new experience with Altium designer and different kinds of simulation programs, in the field of high-resolution delta-sigma ADCs and load cell amplifiers. I feel lucky to had the opportunity to work with a highly international team.
 
-Used technologies: Altium Designer, Eagle, LTspice, SVN, laboratory test equipment
+**Used technologies:** Altium Designer, Eagle, LTspice, SVN, laboratory test equipment
 
 ---
 ### Electrical Engineer - 4 months
@@ -30,7 +30,7 @@ Used technologies: Altium Designer, Eagle, LTspice, SVN, laboratory test equipme
 
 As an intern, I had quality assurance based tasks, jig, and hardware designing with the aim of improving test methods and procedures. I learned a lot about production cell auditing and layered process auditing, quality control plans, and how to make and improve these plans. Furthermore, I experienced how to work and communicate with a culturally very diverse team.
 
-Used technologies: EAGLE, LTspice, CircuitMaker 2000, laboratory test equipment
+**Used technologies:** EAGLE, LTspice, CircuitMaker 2000, laboratory test equipment
 
 ---
 ### DSP Laboratory Demonstrator - 1 semester
@@ -38,7 +38,7 @@ Used technologies: EAGLE, LTspice, CircuitMaker 2000, laboratory test equipment
 
 As a laboratory demonstrator, I presented to younger engineering students how to use digital signal processors (DSPs), write small applications in assembly language, and how to measure them properly. I gained a lot of useful experiences in teaching, encouraging, and dealing with others. I really enjoyed working as a demonstrator.
 
-Used technology: dsPIC33F, MPLAB-X, laboratory equipment
+**Used technologies:** dsPIC33F, MPLAB-X, laboratory equipment
 
 ---
 ## Education
