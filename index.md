@@ -1,4 +1,9 @@
 
+## Profile
+I graduated as an MSc electrical engineer. I have been working as a software developer in the recent years. I am also a Ph.D. student and my research focuses on the application of unmanned aerial vehicles. I have more than three years of experience in the aerospace industry, of which one year was at the German Aerospace Center (DLR). I have expertise in both software and hardware development. I regularly give presentations at conferences and publish my articles.
+
+---
+
 ## Work Experiences by Relevance
 ---
 ### Software Developer - 2 years 1 month
