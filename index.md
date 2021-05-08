@@ -1,48 +1,52 @@
-
 ## Profile
----
-I graduated as an MSc electrical engineer. I have been working as a software developer in the recent years. I am also a Ph.D. student and my research focuses on the application of unmanned aerial vehicles. I have more than three years of experience in the aerospace industry, of which one year was at the German Aerospace Center (DLR). I have expertise in both software and hardware development. I regularly give presentations at conferences and publish my articles.
 
-## Work Experiences by Relevance
+* Organized and persistent ```Software Developer```
+* Committed to clean code with a record of using static code analysis tools
+* Strong undersatnding of hardware level concepts because I worked as hardware developer for example at the German Aerospace Center (DLR)
+* Spent more than 3 years in the space industry
+* PhD student on the side
+* Curious and self-motivated learner
+* Avid drone enthusiast and builder
+* Enjoying being a part of an international team
+
 ---
+## My Research
+
+I am focusing mostly on the question of how to integrate Unmanned Aerial Vehicles into the national airspace safely. More specifically the problem of drone remote identification and the security aspects of wireless communication of drones.
+
+### Publications
+
+1. Huszar, P. (2021) **The Potential of Fifth Generation Mobile Networks for Unmanned Aerial Vehicle Systems**, in: Hausner, G. (szerk.) Szemelvények a katonai műszaki tudományok eredményeiből II., Ludovika Egyetemi Kiadó, 135-145. url.: https://nkerepo.uni-nke.hu/xmlui/bitstream/handle/123456789/16208/905_KDMI_II_hallgatoi_tanulmanykotet.pdf#page=136
+
+2. Huszar, P. (2020) **Drone Remote Identification**, Aeronautical Science Bulletins 32(2), 19-35. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/1246/4236 
+
+3. Huszar, P. (2020) **Threats Against Drones from Cyberspace**, Aeronautical Science Bulletins 32(2), 155-163. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/1506/4245
+
+4. Reizinger, P., Huszar, P., Milankovich, D., Szell, A. (2020) **Cubesat Development from the Perspective of Versatility and Easy Reproducibility**, Aeronautical Science Bulletins 32(2), 81-95. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/4454/4240
+
+5. Huszar, P. (2020) **Challenges of Defense Against Drones**, in: Csiszár, B; et. al. 9th Interdisciplinary Doctoral Conference, Book of Abstracts, ISBN 978-963-429-582-2, Doctoral Student Association of the University of Pécs, 48-48. url.: http://phdpecs.hu/userfiles/files/IDK2020%20Book%20of%20Abstracts%20final.pdf#page=48 
+
+6. Huszar, P. (2019) **Analysis of Ukrain's Crowdfunded Military Purpose Octocopters**, Hadmérnök 14(2), 34–43. url.: http://hadmernok.hu/192_03_huszar.pdf
+
+7. Huszar, P. (2019) **Improving Communication Efficiency Between UAV and it's Ground Segment**, Aeronautical Science Bulletins 31(1), 167–182. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/276/43
+
+---
+## Work Experiences by Relevance
+
 ### Software Developer - 2 years 1 month
 *[Complex Systems & Small Satellites (C3S) LLC.](https://www.c3s.hu/) Budapest, Hungary (2018.12. - 2021.01.)*
 
-As a software developer at C3S, I spent most of my time implementing Python scripts and tools and I also participated in the embedded satellite C source code in the form of bug fixes and code maintenance. I performed measurements on the satellite hardware to verify the functionality of the embedded source code. Besides that my main task was to automate processes like code quality inspections and implement scripts that can be used to generate source code (C, Cpp, NodeJS), configuration files used for the satellite communication packets, reports, and documentation. During our work, we worked together closely with international partners such as the European Space Agency (ESA). I also participated in project preparation. I got entrusted to present the results of our company at a scientific conference and to take part in a paper on CubeSat development.
-
-**Used technologies:** Python3, C, VS Code, Atollic True Studio, Bitbucket, Bamboo, JIRA, SonarQube
-
----
 ### Hardware Engineer - 1 year 9 months
 *[thyssenkrupp E/E Competence Center](https://www.thyssenkrupp.hu/en/sites/budapest) Budapest, Hungary (2017.03. - 2018.11.)*
 
-At Thyssenkrupp my job was to develop, test, and verify a new generation of steering systems intended to be used in self-driving cars. I designed the layout of the high current circuitry and I also took part in the design of the digital circuitry. I performed thermal measurements on the whole system in order to improve the layout. I started to use Python at Thyssenkrupp to collect data automatically with laboratory equipment during measurements, to condition and process the gathered data, and finally to generate the required documentation and verify the results. I gained a lot of experience with thermal cameras, thermal chambers, special PCB technologies like IMS and high-temperature FR4 and Python scripting, during the time I spent there.
-
-**Used technologies:** Python 2.7, Python 3, PyCharm, FLIR thermal cameras, thermal chambers, Altium Designer, SVN
-
----
 ### Electrical Engineer - 1 year 1 month
 *[German Aerospace Center ( Deutsches Zentrum für Luft- und Raumfahrt - DLR)](https://www.dlr.de/content/de/standort/bremen.html) Bremen, Germany (2015.10. - 2016.10.)*
 
-As a hardware designer intern, my task was to design a three-channel (X, Y, Z) high-resolution ADC unit for seismical data acquisition, a main onboard computer unit (OBC) with an ARM Cortex-M4 microcontroller, Wifi connection, and other necessary peripherals, and finally an interface unit for the ROBEX (Robotic Exploration of Extreme Environments-Helmholz Alliance) project. I was responsible for the whole design and manufacturing process. I gained a lot of new experience with Altium designer and different kinds of simulation programs, in the field of high-resolution delta-sigma ADCs and load cell amplifiers. I feel lucky to had the opportunity to work with a highly international team.
-
-**Used technologies:** Altium Designer, Eagle, LTspice, SVN, laboratory test equipment
-
----
 ### Electrical Engineer - 4 months
 *[Hetronic Malta Ltd.](https://www.hetronic.com/) Mriehel, Malta (2015.06. - 2015.09.)*
 
-As an intern, I had quality assurance based tasks, jig, and hardware designing with the aim of improving test methods and procedures. I learned a lot about production cell auditing and layered process auditing, quality control plans, and how to make and improve these plans. Furthermore, I experienced how to work and communicate with a culturally very diverse team.
-
-**Used technologies:** EAGLE, LTspice, CircuitMaker 2000, laboratory test equipment
-
----
 ### DSP Laboratory Demonstrator - 1 semester
 *Obuda University Budapest, Hungary (2016.09. - 2016.12.)*
-
-As a laboratory demonstrator, I presented to younger engineering students how to use digital signal processors (DSPs), write small applications in assembly language, and how to measure them properly. I gained a lot of useful experiences in teaching, encouraging, and dealing with others. I really enjoyed working as a demonstrator.
-
-**Used technologies:** dsPIC33F, MPLAB-X, laboratory equipment
 
 ---
 ## Education
@@ -51,25 +55,21 @@ As a laboratory demonstrator, I presented to younger engineering students how to
 *National University of Public Service, Doctoral School of Military Engineering (2018.09. - Present)*
 Research field: Defense electronics, information technology and communication
 
----
 ### MSc Electrical Engineer - 2 years
 *Óbuda University, Kandó Kálmán Faculty of Electrical Engineering (2014. - 2016.)*
 Specialization: Electrical Machines and Electrical Power Converters specialization, Classification: outstanding
 
----
 ### BSc Electrical Engineer - 4 years
 *Óbuda University, Kandó Kálmán Faculty of Electrical Engineering (2010. - 2014.)*
 Specialization: Communication Engineering, Microwave Communication, Classification: outstanding
 
----
-### Relevant Conferences and Webinars Attended Recently
+#### Relevant Conferences and Webinars Attended Recently
  * [RPAS CivOps 2020 Conference](https://rpas-civops.com/), 8th Annual European Civil RPAS/Drone Operators & Operations Forum, The Hague, Netherlands. (2020.01.13-16.)
  * [Drone Tech World Meeting](https://dronetech-poland.com/?lang=en), Torun, Poland. (2019.10.18-19.)
  * Dedrone Webinar: *"Stopping unauthorized drones at Suffolk County Prison*
  * Dedrone Webinar: *Drone Incident Response: Best Practices and Common Misconceptions*
 
----
-## Awards
+#### Awards
 
 * **New National Excellence Program** of the Ministry for Innovation and Technology (Új Nemzeti Kiválóság Program, ÚNKP) research fellowship granted for the academic year 2019/20. Research topic: *"Tools and possibilities of defensing against drones"*
 * **Special prize** of the XXXIII. National Conference of Scientific Students' Associations Conference (Országos Tudományos Diákköri Konferencia, OTDK) Section: electronics, electrical measurement technology and telecommunications - 2017.
@@ -78,23 +78,3 @@ Specialization: Communication Engineering, Microwave Communication, Classificati
 * **2<sup>nd</sup> prize** of the Obuda University XLIV. Scientific Students' Conference (Tudományos Diákköri Konferencia, TDK)
 * **2<sup>nd</sup> prize** of the University of Timisoara XV. Scientific Students' Conference (Tudományos Diákköri Konferencia, TDK)
 * **1<sup>st</sup> prize** of the Obuda University XXXVIII. Scientific Students' Conference (Tudományos Diákköri Konferencia, TDK)
-
----
-## Publications
-- [Improving communication efficiency between UAV and it's ground segment](/publications.md#improving-communication-efficiency-between-uav-and-its-ground-segment)
-- [Analysis of Ukrain's crowdfunded military purpose octocopters](/publications.md#analysis-of-ukrains-crowdfunded-military-purpose-octocopters)
-- [Challenges of defense against drones](/publications.md#challenges-of-defense-against-drones)
-- [Drone Remote Identification](/publications.md#drone-remote-identification)
-- [Threats against drones from cyberspace](/publications.md#threats-against-drones-from-cyberspace)
-- [The potential of fifth generation mobile networks for unmanned aerial vehicle systems](/publications.md#the-potential-of-fifth-generation-mobile-networks-for-unmanned-aerial-vehicle-systems)
-- [Cubesat development from the perspective of versatility and easy reproducibility](/publications.md#cubesat-development-from-the-perspective-of-versatility-and-easy-reproducibility)
-
----
-## Languages
-* English     - C1 I speak and write in English fluently. I understand highly technical and complex texts and lectures.
-* German      - A1 During my internship in Germany I took online courses and I learned the basics but I have not used it recently.
-* Hungarian   - Native
-
----
-## Hobbies
-To my big surprise I got hooked on running in the recent years. An activity what I really hated back in the days though. I also like playing the guitar and reading about a wide variety of topics.
