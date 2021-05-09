@@ -16,7 +16,7 @@ I am focusing mostly on the question of how to integrate Unmanned Aerial Vehicle
 
 ### Publications
 
-1. Huszar, P. (2021) **The Potential of Fifth Generation Mobile Networks for Unmanned Aerial Vehicle Systems**, in: Hausner, G. (szerk.) Szemelvények a katonai műszaki tudományok eredményeiből II., Ludovika Egyetemi Kiadó, 135-145. [Link](https://nkerepo.uninke.hu/xmlui/bitstream/handle/123456789/16208/905_KDMI_II_hallgatoi_tanulmanykotet.pdf#page=136)
+1. Huszar, P. (2021) **The Potential of Fifth Generation Mobile Networks for Unmanned Aerial Vehicle Systems**, in: Hausner, G. (szerk.) Szemelvények a katonai műszaki tudományok eredményeiből II., Ludovika Egyetemi Kiadó, 135-145. [Link](https://nkerepo.uni-nke.hu/xmlui/bitstream/handle/123456789/16208/905_KDMI_II_hallgatoi_tanulmanykotet.pdf#page=136)
 
 2. Huszar, P. (2020) **Drone Remote Identification**, Aeronautical Science Bulletins 32(2), 19-35. [Link](https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/1246/4236)
 
