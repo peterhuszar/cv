@@ -17,37 +17,34 @@ I am focusing mostly on the question of how to integrate Unmanned Aerial Vehicle
 
 ### Publications
 
-1. Huszar, P. (2021) **The Potential of Fifth Generation Mobile Networks for Unmanned Aerial Vehicle Systems**, in: Hausner, G. (szerk.) Szemelvények a katonai műszaki tudományok eredményeiből II., Ludovika Egyetemi Kiadó, 135-145. url.: https://nkerepo.uni-nke.hu/xmlui/bitstream/handle/123456789/16208/905_KDMI_II_hallgatoi_tanulmanykotet.pdf#page=136
+1. Huszar, P. (2021) **The Potential of Fifth Generation Mobile Networks for Unmanned Aerial Vehicle Systems**, in: Hausner, G. (szerk.) Szemelvények a katonai műszaki tudományok eredményeiből II., Ludovika Egyetemi Kiadó, 135-145. url.: (https://nkerepo.uninke.hu/xmlui/bitstream/handle/123456789/16208/905_KDMI_II_hallgatoi_tanulmanykotet.pdf#page=136)
 
-2. Huszar, P. (2020) **Drone Remote Identification**, Aeronautical Science Bulletins 32(2), 19-35. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/1246/4236 
+2. Huszar, P. (2020) **Drone Remote Identification**, Aeronautical Science Bulletins 32(2), 19-35. url.: (https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/1246/4236)
 
-3. Huszar, P. (2020) **Threats Against Drones from Cyberspace**, Aeronautical Science Bulletins 32(2), 155-163. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/1506/4245
+3. Huszar, P. (2020) **Threats Against Drones from Cyberspace**, Aeronautical Science Bulletins 32(2), 155-163. url.: (https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/1506/4245)
 
-4. Reizinger, P., Huszar, P., Milankovich, D., Szell, A. (2020) **Cubesat Development from the Perspective of Versatility and Easy Reproducibility**, Aeronautical Science Bulletins 32(2), 81-95. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/4454/4240
+4. Reizinger, P., Huszar, P., Milankovich, D., Szell, A. (2020) **Cubesat Development from the Perspective of Versatility and Easy Reproducibility**, Aeronautical Science Bulletins 32(2), 81-95. url.: (https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/4454/4240)
 
-5. Huszar, P. (2020) **Challenges of Defense Against Drones**, in: Csiszár, B; et. al. 9th Interdisciplinary Doctoral Conference, Book of Abstracts, ISBN 978-963-429-582-2, Doctoral Student Association of the University of Pécs, 48-48. url.: http://phdpecs.hu/userfiles/files/IDK2020%20Book%20of%20Abstracts%20final.pdf#page=48 
+5. Huszar, P. (2020) **Challenges of Defense Against Drones**, in: Csiszár, B; et. al. 9th Interdisciplinary Doctoral Conference, Book of Abstracts, ISBN 978-963-429-582-2, Doctoral Student Association of the University of Pécs, 48-48. url.: (http://phdpecs.hu/userfiles/files/IDK2020%20Book%20of%20Abstracts%20final.pdf#page=48)
 
-6. Huszar, P. (2019) **Analysis of Ukrain's Crowdfunded Military Purpose Octocopters**, Hadmérnök 14(2), 34–43. url.: http://hadmernok.hu/192_03_huszar.pdf
+6. Huszar, P. (2019) **Analysis of Ukrain's Crowdfunded Military Purpose Octocopters**, Hadmérnök 14(2), 34–43. url.: (http://hadmernok.hu/192_03_huszar.pdf)
 
-7. Huszar, P. (2019) **Improving Communication Efficiency Between UAV and it's Ground Segment**, Aeronautical Science Bulletins 31(1), 167–182. url.: https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/276/43
+7. Huszar, P. (2019) **Improving Communication Efficiency Between UAV and it's Ground Segment**, Aeronautical Science Bulletins 31(1), 167–182. url.: (https://folyoirat.ludovika.hu/index.php/reptudkoz/article/view/276/43)
 
 ---
-## Work Experiences by Relevance
+## Work Experiences
 
-### Software Developer - 2 years 1 month
-*[Complex Systems & Small Satellites (C3S) LLC.](https://www.c3s.hu/) Budapest, Hungary (2018.12. - 2021.01.)*
+1. Software Developer (2018.12. - 2021.01.) at [Complex Systems & Small Satellites (C3S) LLC.](https://www.c3s.hu/) Budapest, Hungary
 
-### Hardware Engineer - 1 year 9 months
-*[thyssenkrupp E/E Competence Center](https://www.thyssenkrupp.hu/en/sites/budapest) Budapest, Hungary (2017.03. - 2018.11.)*
+2. Hardware Developer (2017.03. - 2018.11.) at [thyssenkrupp E/E Competence Center](https://www.thyssenkrupp.hu/en/sites/budapest) Budapest, Hungary
 
-### Electrical Engineer - 1 year 1 month
-*[German Aerospace Center ( Deutsches Zentrum für Luft- und Raumfahrt - DLR)](https://www.dlr.de/content/de/standort/bremen.html) Bremen, Germany (2015.10. - 2016.10.)*
+3. Digital Signal Processing Laboratory Demonstrator (2016.09. - 2016.12.) at Obuda University Budapest, Hungary
 
-### Electrical Engineer - 4 months
-*[Hetronic Malta Ltd.](https://www.hetronic.com/) Mriehel, Malta (2015.06. - 2015.09.)*
+4. Hardware Developer (2015.10. - 2016.10.) at [German Aerospace Center ( Deutsches Zentrum für Luft- und Raumfahrt - DLR)](https://www.dlr.de/content/de/standort/bremen.html) Bremen, Germany
 
-### DSP Laboratory Demonstrator - 1 semester
-*Obuda University Budapest, Hungary (2016.09. - 2016.12.)*
+5. Electrical Engineer (2015.06. - 2015.09.) at [Hetronic Malta Ltd.](https://www.hetronic.com/) Mriehel, Malta
+
+If you are interested, you can find a more detailed description of my work experiences on my [Linkedin profile](https://www.linkedin.com/in/huszar-peter/). Feel free to contact me here anytime. 
 
 ---
 ## Education
