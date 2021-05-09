@@ -62,9 +62,9 @@ If you are interested, you can find a more detailed description of my work exper
 
 * 2018.09. - Present **PhD Military Engineering** at National University of Public Service, Doctoral School of Military Engineering. Research field: Defense electronics, information technology and communication
 
-* 2014. - 2016. **MSc Electrical Engineer** at Óbuda University, Kandó Kálmán Faculty of Electrical Engineering. Specialization: Electrical Machines and Electrical Power Converters.
+* 2014 - 2016 **MSc Electrical Engineer** at Óbuda University, Kandó Kálmán Faculty of Electrical Engineering. Specialization: Electrical Machines and Electrical Power Converters.
 
-* 2010. - 2014. **BSc Electrical Engineer** at Óbuda University, Kandó Kálmán Faculty of Electrical Engineering. Specialization: Communication Engineering, Microwave Communication
+* 2010 - 2014 **BSc Electrical Engineer** at Óbuda University, Kandó Kálmán Faculty of Electrical Engineering. Specialization: Communication Engineering, Microwave Communication
 
 ### Awards
 
