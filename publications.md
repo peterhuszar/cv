@@ -9,7 +9,7 @@ Below you can find the abstracts of my publications. They are mostly hungarian p
 
 **Keywords:** drones, cellular communication, 5G
 
-**Status:** [Published](https://nkerepo.uninke.hu/xmlui/bitstream/handle/123456789/16208/905_KDMI_II_hallgatoi_tanulmanykotet.pdf#page=136)
+**Status:** [Published](https://nkerepo.uni-nke.hu/xmlui/bitstream/handle/123456789/16208/905_KDMI_II_hallgatoi_tanulmanykotet.pdf#page=136)
 
 ---
 ### Huszar, P. (2020) Drone Remote Identification, Aeronautical Science Bulletins 32(2), 19-35.
