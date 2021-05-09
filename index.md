@@ -1,13 +1,15 @@
 ## Profile
 
-* Organized and persistent Software Developer
-* Committed to clean code with a record of using static code analysis tools
-* Strong undersatnding of hardware level concepts because I worked as hardware developer for example at the German Aerospace Center (DLR)
-* Spent more than 3 years in the space industry
-* PhD student on the side
-* Curious and self-motivated learner
-* Avid drone enthusiast and builder
-* Enjoying being a part of an international team
+```
+- Organized and persistent Software Developer
+- Committed to clean code with a record of using static code analysis tools
+- Strong undersatnding of hardware level concepts because I worked as hardware developer for example at the German Aerospace Center (DLR)
+- Spent more than 3 years in the space industry
+- PhD student on the side
+- Curious and self-motivated learner
+- Avid drone enthusiast and builder
+- Enjoying being a part of an international team
+```
 
 ---
 ## My Research
