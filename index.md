@@ -2,10 +2,9 @@
 
 ```
 - Organized and persistent Software Developer.
-- Committed to clean code.
 - Strong undersatnding of hardware level concepts.
 - Spent more than 3 years in the space industry.
-- PhD student on the side.
+- PhD student in the field of Drones.
 - Curious and self-motivated learner.
 - Avid drone enthusiast and builder.
 - Enjoying being a part of an international team.
@@ -14,7 +13,7 @@
 ---
 ## My Research
 
-I am focusing mostly on the question of how to integrate Unmanned Aerial Vehicles into the national airspace safely. More specifically the problem of drone remote identification and the security aspects of wireless communication of drones.
+I am focusing on the question of how to integrate Unmanned Aerial Vehicles into the national airspace safely. More specifically the problem of drone remote identification and the security aspects of wireless communication of drones.
 
 ### Publications
 
@@ -46,8 +45,9 @@ To gain more first-hand knowledge in my field of research I am attending confere
 
 ---
 ## Work Experiences
+* 2021.04. - Present **Software QA Engineer** at Silicon Laboratories Ltd. Budapest, Hungary
 
-* 2018.12. - 2021.01. **Software Developer** at [Complex Systems & Small Satellites (C3S) LLC.](https://www.c3s.hu/) Budapest, Hungary
+* 2018.12. - 2021.02. **Software Developer** at [Complex Systems & Small Satellites (C3S) LLC.](https://www.c3s.hu/) Budapest, Hungary
 
 * 2017.03. - 2018.11. **Hardware Developer** at [thyssenkrupp E/E Competence Center](https://www.thyssenkrupp.hu/en/sites/budapest) Budapest, Hungary
 
